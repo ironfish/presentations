@@ -4,6 +4,7 @@ Some of my presentations around building [Reactive Architectures](http://www.rea
 
 | Presentation | Video | Description |
 | ------------ | ----- | ----------- |
+| [Akka for Java Devs: Bridging the Imaginiation Divide](http://tinyurl.com/pdgtx9q) |[Akka for Java DevsWebinar](http://tinyurl.com/pdgtx9q) | <ul><li>Why do I need to think “distributed” now?</li><li>What is Akka and what is it used for</li><li>How can you leverage Akka as a Java developer</li></ul> |
 | [CQRS/ES with Akka](/pdf/cqrs_es.PDF) @ [ny-scala 1.2015](http://www.meetup.com/ny-scala/events/219615402/) | N/A | This presentation discusses Command Query Responsibility Segregation with Event Sourcing, and how they are a natural fit for distributed computing. |
 | [Autobiography of Building a Reactive Application](/pdf/autobiography_building_ra.pdf) | [Scaladays 2014](http://parleys.com/play/53a7d2cce4b0543940d9e55c/chapter0/about) | This session compares the challenges of monolithic application design in contrast to Reactive application design built on top of CQRS/ES for distributed systems. |
 | [Akka Concurrency Works](pdf/akka_concurrency_works.pdf) | [QCon NY 2014](http://www.infoq.com/presentations/akka-concurrency-jvm?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=QConNewYork2014) | In this session, we will review the challenges of concurrent programming on the JVM and explore Akka a powerful toolkit and runtime for building highly concurrent, distributed applications on the JVM. |
