@@ -10,6 +10,9 @@ My book and presentations around building [Reactive Architectures](http://www.re
 
 | Slides       | Video/Audio | Location | Description |
 | ------------ | ------------| -------- | ----------- |
+| [Distributed ES with Akka Persistence SBTB](/pdf/distributed_es_with_akka_persistence_sbtb.pdf) | N/A | Scala By The Bay 2015 |
+Introduction to Event Sourcing with Akka Persistence and Cluster Sharding. |
+| Comming Soon | Comming Soon| oscon Portland 2014 | 2-Day Course intro to Akka with Scala |
 | [Distributed Event Sourcing with Akka Persistence](/pdf/distributed_es_with_akka_persistence.pdf) | N/A | [Philly ETE 2015](http://phillyemergingtech.com/sessions/distributed-eventsourcing-with-akka/) | Using Akka Persistence and Cluster Sharding for Distributed Identity with Event Sourcing. |
 | [Akka for Java Devs: Bridging the Imagination Divide](/pdf/akka_for_java_devs.pdf) | [Akka for Java Devs Webinar](http://www.typesafe.com/resources/video/akka-for-java-devs-bridging-the-imagination-divide) | [Typesafe Webinar's](https://www.typesafe.com/resources/videos) | <ul><li>Why do I need to think “distributed” now?</li><li>What is Akka and what is it used for</li><li>How can you leverage Akka as a Java developer</li></ul> |
 | [CQRS/ES with Akka](/pdf/cqrs_es.pdf) | N/A | [ny-scala 1.2015](http://www.meetup.com/ny-scala/events/219615402/) | This presentation discusses Command Query Responsibility Segregation with Event Sourcing, and how they are a natural fit for distributed computing. |
