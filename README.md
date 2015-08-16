@@ -1,6 +1,10 @@
 # Reactive Architecture
 
-My book and presentations around building [Reactive Architectures](http://www.reactivemanifesto.org).
+My blog, book and presentations around building [Reactive Architectures](http://www.reactivemanifesto.org).
+
+## Blog
+
+* [Typed Musings](http://ironfish.github.io)
 
 ## Books
 
