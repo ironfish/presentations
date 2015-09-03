@@ -14,8 +14,8 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 | Slides       | Video/Audio | Location | Description |
 | ------------ | ------------| -------- | ----------- |
-| [Distributed ES with Akka Persistence SBTB](/pdf/distributed_es_with_akka_persistence_sbtb.pdf) | N/A | Scala By The Bay 2015 | Introduction to Event Sourcing with Akka Persistence and Cluster Sharding. |
-| Comming Soon | Comming Soon| oscon Portland 2015 | 2-Day Course intro to Akka with Scala |
+| [Distributed ES with Akka Persistence SBTB](/pdf/distributed_es_with_akka_persistence_sbtb.pdf) | Comming Soon | Scala By The Bay 2015 | Introduction to Event Sourcing with Akka Persistence and Cluster Sharding. |
+| [Introduction to Reactive Programming Courseware](https://github.com/ironfish/reactive-restaurant-student) | [Requires Membership](https://members.oreilly.com/account/login) | oscon Portland 2015 | 2-Day Course intro to Akka with Scala |
 | [Distributed Event Sourcing with Akka Persistence](/pdf/distributed_es_with_akka_persistence.pdf) | N/A | [Philly ETE 2015](http://phillyemergingtech.com/sessions/distributed-eventsourcing-with-akka/) | Using Akka Persistence and Cluster Sharding for Distributed Identity with Event Sourcing. |
 | [Introducing Reactive Programming](/pdf/introducing_reactive_programming.pdf) | [Oreilly Webcast 2015](http://www.oreilly.com/pub/e/3404) | Oreilly Webcast 2015 | Start Coding with Practical Examples in Java and Scala |
 | [Akka for Java Devs: Bridging the Imagination Divide](/pdf/akka_for_java_devs.pdf) | [Akka for Java Devs Webinar](http://www.typesafe.com/resources/video/akka-for-java-devs-bridging-the-imagination-divide) | [Typesafe Webinar's](https://www.typesafe.com/resources/videos) | <ul><li>Why do I need to think “distributed” now?</li><li>What is Akka and what is it used for</li><li>How can you leverage Akka as a Java developer</li></ul> |
