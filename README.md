@@ -12,19 +12,19 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 ## Presentations
 
-location | slides | video/audio
--------- | ------ | -----------
-2015 ScalaUpNorth | [Why Reactive?](/pdf/why-reactive.pdf) | [Keynote](http://tinyurl.com/nqvcfuw)
-2015 ScalaByTheBay | [Event Sourcing with Akka Persistence SBTB](/pdf/dist_es_with_akka_persistence_sbtb.pdf) | Soon
-2015 oscon Portland | [Intro to Reactive Programming Course](http://tinyurl.com/nz2rgd6) | [OReilly](http://tinyurl.com/7dprkk)
-2015 Philly ETE | [Event Sourcing with Akka Persistence](/pdf/dist_es_with_akka_pers.pdf) | [Chariot](http://tinyurl.com/pbnrnws)
-2015 OReilly Webcast | [Introducing Reactive Programming](/pdf/intro_reactive_prog.pdf) | [OReilly](http://tinyurl.com/news2hq)
-2015 Typesafe Webinar | [Akka for Java Devs](/pdf/akka_for_java_devs.pdf) | [Typesafe](http://tinyurl.com/nhut99k)
-2015 Ny-Scala | [CQRS/ES with Akka](/pdf/cqrs_es.pdf) | N/A
-2014 ScalaDays Berlin | [Autobiography of Building a Reactive Application](/pdf/autobiography_ra.pdf) | [Parleys](http://tinyurl.com/op7gdmu)
-2014 QCon NY | [Akka Concurrency Works](/pdf/akka_concurrency_works.pdf)| [Akka Concurrency Works](http://tinyurl.com/pjcbcce)
-2014 QCon NY | Panel - What's the Best Way to Improve Software Architectures? | [QCon NY2014](http://tinyurl.com/nd8zalc)
-2014 Akka Days | [Lessons Learned in Deploying Akka Persistence](/pdf/lessons-akka-pers.pdf) | [Akka Days 2014](http://tinyurl.com/o2zsens)
+video/audio | slides
+----------- | ------
+[2015 ScalaUpNorth](http://tinyurl.com/nqvcfuw) | [Why Reactive?](/pdf/why-reactive.pdf)
+2015 ScalaByTheBay | [Event Sourcing with Akka Persistence SBTB](/pdf/dist_es_with_akka_persistence_sbtb.pdf)
+[2015 oscon Portland](http://tinyurl.com/7dprkk)| [Intro to Reactive Programming Course](http://tinyurl.com/nz2rgd6)
+[2015 Philly ETE](http://tinyurl.com/pbnrnws) | [Event Sourcing with Akka Persistence](/pdf/dist_es_with_akka_pers.pdf)
+[2015 OReilly Webcast](http://tinyurl.com/news2hq) | [Introducing Reactive Programming](/pdf/intro_reactive_prog.pdf)
+[2015 Typesafe Webinar](http://tinyurl.com/nhut99k) | [Akka for Java Devs](/pdf/akka_for_java_devs.pdf)
+2015 Ny-Scala | [CQRS/ES with Akka](/pdf/cqrs_es.pdf)
+[2014 ScalaDays Berlin](http://tinyurl.com/op7gdmu) | [Autobiography of Building a Reactive Application](/pdf/autobiography_ra.pdf)
+[2014 QCon NY](http://tinyurl.com/pjcbcce) | [Akka Concurrency Works](/pdf/akka_concurrency_works.pdf)
+[2014 QCon NY](http://tinyurl.com/nd8zalc) | Panel - What's the Best Way to Improve Software Architectures?
+[2014 Akka Days](http://tinyurl.com/o2zsens) | [Lessons Learned in Deploying Akka Persistence](/pdf/lessons-akka-pers.pdf)
 
 
 ### Distributed ES with Akka Persistence SBTB
