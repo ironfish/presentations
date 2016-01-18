@@ -12,8 +12,9 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 ## Presentations
 
-video/audio                                         | slides
+video / audio / site                                | slides
 --------------------------------------------------- | ------------------------------------------------------------------------------
+[2016 Reactive Meetup](http://tinyurl.com/j7sbg7t)  | [Reactive & Monitoring](/pdf/reactive-and-monitoring-reactive-meetup.2016.pdf)
 [2015 ScalaUpNorth](http://tinyurl.com/nqvcfuw)     | [Why Reactive?](/pdf/why-reactive.pdf)
 2015 ScalaByTheBay                                  | [ES with Akka Persistence SBTB](/pdf/dist_es_with_akka_persistence_sbtb.pdf)
 [2015 oscon Portland](http://tinyurl.com/7dprkk)    | [Intro to Reactive Programming Course](http://tinyurl.com/nz2rgd6)
