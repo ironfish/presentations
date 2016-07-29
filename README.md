@@ -14,7 +14,7 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 video / audio / site                                | slides
 --------------------------------------------------- | ------------------------------------------------------------------------------
-[2016 PhillyJug](http://www.meetup.com/PhillyJUG/events/231389526/) | [Lightbend Lagom Microservices Just Right](/pdf/lightbend-lagom-mircroservices-just-right.pdf)
+[2016 PhillyJUG](http://www.meetup.com/PhillyJUG/events/231389526/) | [Lightbend Lagom Microservices Just Right](/pdf/lightbend-lagom-mircroservices-just-right.pdf)
 2016 ScalaDays Berlin | [Monitoring ReactiveApplications](/pdf/monitoring_reactive_applications.pdf) 
 [2016 ScalaDays NYC](http://tinyurl.com/hte28qj) | [Monitoring ReactiveApplications](/pdf/monitoring_reactive_applications.pdf) 
 [2016 oscon Austin](http://tinyurl.com/zd2mfb2) | [Reactive System Design](https://github.com/ironfish/reactive-system-design)
