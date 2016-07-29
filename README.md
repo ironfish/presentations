@@ -14,6 +14,7 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 video / audio / site                                | slides
 --------------------------------------------------- | ------------------------------------------------------------------------------
+[2016 Lighbend Monitoring Webinar](http://www.slideshare.net/Lightbend/monitoring-microservices-in-production-with-lightbend-reactive-platform) | [Monitoring Microservies in Production with Lightbend Reactive Platform](pdf/monitoring-reactive-applications-webinar.pdf)
 [2016 PhillyJUG](http://www.meetup.com/PhillyJUG/events/231389526/) | [Lightbend Lagom Microservices Just Right](/pdf/lightbend-lagom-mircroservices-just-right.pdf)
 2016 ScalaDays Berlin | [Monitoring ReactiveApplications](/pdf/monitoring_reactive_applications.pdf) 
 [2016 ScalaDays NYC](http://tinyurl.com/hte28qj) | [Monitoring ReactiveApplications](/pdf/monitoring_reactive_applications.pdf) 
