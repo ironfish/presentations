@@ -12,6 +12,10 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 ## Presentations
 
+#### Monitoring Reactive Microservices
+- [2017 Devnexus Atlanta](https://devnexus.com/s/devnexus2017/presentations/17355)
+- slides: [Monitoring Reactive Microservices](pdf/reactive-monitoring-devnexus-2017.pdf)
+
 #### Oreilly Interview - Reactive Architecture Design
 
 - video: [Reactive architecture design and programming interview](https://www.youtube.com/watch?v=nZ1NucpEyxM)
