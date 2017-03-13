@@ -28,7 +28,8 @@ My blog, book and presentations around building [Reactive Architectures](http://
 #### blah.blah.microservices.blah.blah
 
 - [2016 Sacon London](http://conferences.oreilly.com/software-architecture/engineering-business-eu/public/schedule/detail/52564)
-- slides: [blah.blah.microservies.blah.blah](pdf/blah-blah-microservices-blah-blah.pdf)
+- slides: [blah.blah.microservices.blah.blah](pdf/blah-blah-microservices-blah-blah.pdf)
+- video: [blah.blah.microservices.blah.blah](https://player.oreilly.com/videos/9781491958483?login=true)
 
 #### Reactive System Design - 2 Day Course
 
