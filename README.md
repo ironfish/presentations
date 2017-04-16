@@ -112,7 +112,7 @@ My blog, book and presentations around building [Reactive Architectures](http://
 - slides: [CQRS/ES with Akka](/pdf/cqrs_es.pdf)
 
 #### Autobiography of Building a Reactive Appliction
-- [2014 ScalaDays Berlin](http://tinyurl.com/op7gdmu)
+- [2014 ScalaDays Berlin](https://www.youtube.com/watch?v=8cw7PoZuedc)
 - slides: [Autobiography of Building a Reactive Application](/pdf/autobiography_ra.pdf)
 
 #### Akka Concurrency Works
