@@ -12,18 +12,41 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 ## Presentations
 
+### 2017 Scala Up North Keynote
+
+#### Managing Consistency, State and Identity in Distributed Microservices
+
+[slides](pdf/SUP_2017.pdf) | [video](https://www.youtube.com/watch?v=NRlLgB5StBs&list=PL-ziwLLJ3XaIOFgsiLAbNNZSFNGr7yA2d&index=10)
+
+### 2017 Scala Days Chicago
+
+#### Managing Consistency, State and Identity in Distributed Microservices
+
+[slides](pdf/ScalaDaysCPH17_DKD.pdf) | [video](https://www.youtube.com/watch?v=5qrk-WcTEEk)
+
+### 2017 Devnexus Atlanta
+
 #### Monitoring Reactive Microservices
 
-- [2017 Devnexus Atlanta](https://devnexus.com/s/devnexus2017/presentations/17355)
-- slides: [Monitoring Reactive Microservices](pdf/reactive-monitoring-devnexus-2017.pdf)
+[slides](pdf/reactive-monitoring-devnexus-2017.pdf)
 
-#### 2017 DZone Article (Reactive Design for Traditional Java Enterprises)
+### 2017 DZone Article
 
-- [Reactive Design for Traditional Java Enterprises](https://dzone.com/articles/reactive-system-design-for-traditional-java-enterprises)
+#### Reactive Design for Traditional Java Enterprises
 
-#### Oreilly Interview - Reactive Architecture Design
+[article](https://dzone.com/articles/reactive-system-design-for-traditional-java-enterprises) | [video](https://www.youtube.com/watch?time_continue=1&v=5WQ3HZOerD4)
 
-- video: [Reactive architecture design and programming interview](https://www.youtube.com/watch?v=nZ1NucpEyxM)
+### 2017 Oreilly Interview
+
+#### Getting started with fast data architecture with Duncan DeVore (Lightbend)
+
+[video](https://www.youtube.com/watch?v=43LLxtLSFiw&list=PL055Epbe6d5Y9HIPRWBda1pLO4iBff9FP&index=8)
+
+### 2016 Oreilly Interview
+
+#### Reactive Architecture Design
+
+[video](https://www.youtube.com/watch?v=nZ1NucpEyxM)
 
 #### blah.blah.microservices.blah.blah
 
