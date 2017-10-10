@@ -36,13 +36,13 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 [article](https://dzone.com/articles/reactive-system-design-for-traditional-java-enterprises) | [video](https://www.youtube.com/watch?time_continue=1&v=5WQ3HZOerD4)
 
-### 2017 Oreilly Interview
+### 2017 O'Reilly Interview
 
 #### Getting started with fast data architecture with Duncan DeVore (Lightbend)
 
 [video](https://www.youtube.com/watch?v=43LLxtLSFiw&list=PL055Epbe6d5Y9HIPRWBda1pLO4iBff9FP&index=8)
 
-### 2016 Oreilly Interview
+### 2016 O'Reilly Interview
 
 #### Reactive Architecture Design
 
@@ -113,7 +113,7 @@ My blog, book and presentations around building [Reactive Architectures](http://
 [site](http://tinyurl.com/j7sbg7t) | 
 [slides](/pdf/reactive-and-monitoring-reactive-meetup.2016.pdf)
 
-### 2015 Scala Up North
+### 2015 Scala Up North Keynote
 
 #### Why Reactive?
 
@@ -128,51 +128,67 @@ My blog, book and presentations around building [Reactive Architectures](http://
 [slides](/pdf/dist_es_with_akka_persistence_sbtb.pdf) | 
 [video](https://www.youtube.com/watch?v=uA2AsZW0I7A)
 
-#### Reactive Programming Course
+### 2015 OSCON Portland
 
-- [2015 oscon Portland](http://tinyurl.com/7dprkk)
-- slides: [Intro to Reactive Programming Course](http://tinyurl.com/nz2rgd6)
+#### Intro to Reactive Programming Course
 
-#### Event Sourcing with Akka Persistence - ETE
+[site](http://tinyurl.com/7dprkk) | 
+[slides](http://tinyurl.com/nz2rgd6)
 
-- [2015 Philly ETE](http://chariotsolutions.com/screencast/philly-ete-2015-51-duncan-k-devore-distributed-eventsourcing-with-akka/)
-- video: [ES with Akka Persistence](http://tinyurl.com/pbnrnws)
-- sliedes: [ES with Akka Persistence](/pdf/dist_es_with_akka_pers.pdf)
+### 2015 Philadelphia ETE
+
+#### Event Sourcing with Akka Persistence
+
+[site](http://chariotsolutions.com/screencast/philly-ete-2015-51-duncan-k-devore-distributed-eventsourcing-with-akka/) | 
+[slides](/pdf/dist_es_with_akka_pers.pdf) | 
+[video](http://tinyurl.com/pbnrnws)
+
+### 2015 O'Reilly Webcast
 
 #### Reactive Programming
 
-- [2015 OReilly Webcast](http://tinyurl.com/news2hq)
-- slides: [Introducing Reactive Programming](/pdf/intro_reactive_prog.pdf)
+[site](http://tinyurl.com/news2hq) | 
+[slides](/pdf/intro_reactive_prog.pdf)
+
+### 2015 Typesafe Webinar
 
 #### Akka for Java Developers
 
-- [2015 Typesafe Webinar](http://tinyurl.com/nhut99k)
-- video: [Akka for Java Devs](https://www.youtube.com/watch?v=-zvWtSR08HA)
-- slides: [Akka for Java Devs](/pdf/akka_for_java_devs.pdf)
+[site](http://tinyurl.com/nhut99k) | 
+[slides](/pdf/akka_for_java_devs.pdf) | 
+[video](https://www.youtube.com/watch?v=-zvWtSR08HA)
+
+### 2015 NY Scala Users Group
 
 #### CQRS/ES with Akka
 
-- 2015 Ny-Scala
-- slides: [CQRS/ES with Akka](/pdf/cqrs_es.pdf)
+[slides](/pdf/cqrs_es.pdf)
 
-#### Autobiography of Building a Reactive Appliction
-- [2014 ScalaDays Berlin](https://www.youtube.com/watch?v=8cw7PoZuedc)
-- slides: [Autobiography of Building a Reactive Application](/pdf/autobiography_ra.pdf)
+### 2014 Scala Days Berlin
+
+#### Autobiography of Building a Reactive Application
+
+[slides](/pdf/autobiography_ra.pdf) | 
+[video](https://www.youtube.com/watch?v=8cw7PoZuedc)
+
+### 2014 QCon NY
 
 #### Akka Concurrency Works
 
-- [2014 QCon NY](http://tinyurl.com/pjcbcce)
-- video: [Akka Concurrency Works](https://www.infoq.com/presentations/akka-concurrency-jvm)
-- slides: [Akka Concurrency Works](/pdf/akka_concurrency_works.pdf)
+[site](http://tinyurl.com/pjcbcce) | 
+[slides](/pdf/akka_concurrency_works.pdf) | 
+[video](https://www.infoq.com/presentations/akka-concurrency-jvm)
 
 #### Panel Discussion - What's the Best Way to Improve Software Architectures?
 
-- [2014 QCon NYC](https://qconnewyork.com/ny2014/presentation/software-architecture-improvements-talk-4-0.html)
-- video: [What's the Best Way to Improve Software Architectures?](http://tinyurl.com/nd8zalc)
+[site](https://qconnewyork.com/ny2014/presentation/software-architecture-improvements-talk-4-0.html) | 
+[video](http://tinyurl.com/nd8zalc)
+
+### 2014 Akka Days
 
 #### Lessons Learned in Deploying Akka
 
-- [2014 Akka Days](https://www.lightbend.com/resources/video/akka-days-webinar-day-1)
-- video: [Lessons Learned in Deploying Akka Persistence](https://www.lightbend.com/resources/video/akka-days-webinar-day-1)
-- slides: [Lessons Learned in Deploying Akka Persistence](/pdf/lessons-akka-pers.pdf)
+[site](https://www.lightbend.com/resources/video/akka-days-webinar-day-1) | 
+[slides](/pdf/lessons-akka-pers.pdf) | 
+[video](https://www.lightbend.com/resources/video/akka-days-webinar-day-1)
 
