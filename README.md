@@ -48,11 +48,9 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 [video](https://www.youtube.com/watch?v=nZ1NucpEyxM)
 
-#### blah.blah.microservices.blah.blah
-
 ### 2016 Sacon London
 
-#### blah.blah.blah.microservices
+#### blah.blah.microservices.blah.blah
 
 [site](http://conferences.oreilly.com/software-architecture/engineering-business-eu/public/schedule/detail/52564) | 
 [slides](pdf/blah-blah-microservices-blah-blah.pdf) | 
