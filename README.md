@@ -50,62 +50,83 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 #### blah.blah.microservices.blah.blah
 
-- [2016 Sacon London](http://conferences.oreilly.com/software-architecture/engineering-business-eu/public/schedule/detail/52564)
-- slides: [blah.blah.microservices.blah.blah](pdf/blah-blah-microservices-blah-blah.pdf)
-- video: [blah.blah.microservices.blah.blah](https://player.oreilly.com/videos/9781491958483?login=true)
+### 2016 Sacon London
+
+#### blah.blah.blah.microservices
+
+[site](http://conferences.oreilly.com/software-architecture/engineering-business-eu/public/schedule/detail/52564) | 
+[slides](pdf/blah-blah-microservices-blah-blah.pdf) | 
+[video](https://player.oreilly.com/videos/9781491958483?login=true)
 
 #### Reactive System Design - 2 Day Course
 
-- [2016 Sacon London](http://conferences.oreilly.com/software-architecture/engineering-business-eu/public/schedule/detail/53768)
-- course: [Reactive Restaurant Student](https://github.com/ironfish/reactive-restaurant-student)
+[site](http://conferences.oreilly.com/software-architecture/engineering-business-eu/public/schedule/detail/53768) | 
+[course](https://github.com/ironfish/reactive-restaurant-student)
+
+### 2016 Peru JUG
 
 #### Lagom Microservices
 
-- 2016 Peru JUG
-- video: [Lagom Microservices](https://www.youtube.com/watch?v=eLP1yc1dkdM)
+[video](https://www.youtube.com/watch?v=eLP1yc1dkdM)
 
-#### Monitoring Microservices
+### 2016 Lightbend Monitoring Webinar
 
-- [2016 Lighbend Monitoring Webinar](http://www.slideshare.net/Lightbend/monitoring-microservices-in-production-with-lightbend-reactive-platform)
-- slides: [Monitoring Microservies in Production with Lightbend Reactive Platform](pdf/monitoring-reactive-applications-webinar.pdf)
+#### Monitoring Microservices in Production with Lightbend Reactive Platform
 
-#### Lagom Microservices
+[site](http://www.slideshare.net/Lightbend/monitoring-microservices-in-production-with-lightbend-reactive-platform) | 
+[slides](pdf/monitoring-reactive-applications-webinar.pdf)
 
-- [2016 PhillyJUG](http://www.meetup.com/PhillyJUG/events/231389526/)
-- slides: [Lightbend Lagom Microservices Just Right](/pdf/lightbend-lagom-mircroservices-just-right.pdf)
+### 2016 Philadelphia JUG
 
-#### Monitoring Reactive Applications - Berlin
-- [2016 ScalaDays Berlin](http://event.scaladays.org/scaladays-berlin-2016#!#schedulePopupExtras-7591)
-- video: [Monitoring Reactive Applications](https://www.youtube.com/watch?v=oNAqAkRvDdo)
-- slides: [Monitoring Reactive Applications](/pdf/monitoring_reactive_applications.pdf)
+#### Lightbend Lagom Microservices Just Right
 
-#### Monitoring Reactive Applications - NYC
+[site](http://www.meetup.com/PhillyJUG/events/231389526/) | 
+[slides](/pdf/lightbend-lagom-mircroservices-just-right.pdf)
 
-- [2016 ScalaDays NYC](http://event.scaladays.org/scaladays-nyc-2016#!#schedulePopupExtras-7543)
-- video: [Monitoring Reactive Applications](http://tinyurl.com/hte28qj)
-- slides: [Monitoring Reactive Applications](/pdf/monitoring_reactive_applications.pdf)
+### 2016 Scala Days Berlin
+
+#### Monitoring Reactive Applications
+
+[site](http://event.scaladays.org/scaladays-berlin-2016#!#schedulePopupExtras-7591) | 
+[slides](/pdf/monitoring_reactive_applications.pdf) | 
+[video](https://www.youtube.com/watch?v=oNAqAkRvDdo)
+
+### 2016 Scala Days New York
+
+#### Monitoring Reactive Applications
+
+[site](http://event.scaladays.org/scaladays-nyc-2016#!#schedulePopupExtras-7543) | 
+[slides](/pdf/monitoring_reactive_applications.pdf) | 
+[video](http://tinyurl.com/hte28qj)
+
+### 2016 OSCON Austin
 
 #### Reactive System Design
 
-- [2016 oscon Austin](http://tinyurl.com/zd2mfb2)
-- course: [Reactive System Design](https://github.com/ironfish/reactive-system-design)
+[site](http://tinyurl.com/zd2mfb2) | 
+[course](https://github.com/ironfish/reactive-system-design)
+
+### 2016 Reactive Meetup
 
 #### Reactive and Monitoring
 
-- [2016 Reactive Meetup](http://tinyurl.com/j7sbg7t)
-- slides: [Reactive & Monitoring](/pdf/reactive-and-monitoring-reactive-meetup.2016.pdf)
+[site](http://tinyurl.com/j7sbg7t) | 
+[slides](/pdf/reactive-and-monitoring-reactive-meetup.2016.pdf)
+
+### 2015 Scala Up North
 
 #### Why Reactive?
 
-- [2015 ScalaUpNorth](http://scalaupnorth.com/2015.html)
-- video: [Why Reactive?](https://www.youtube.com/watch?v=QzmRZTu2WYs)
-- slides: [Why Reactive?](/pdf/why-reactive.pdf)
+[site](http://scalaupnorth.com/2015.html) | 
+[video](https://www.youtube.com/watch?v=QzmRZTu2WYs) | 
+[slides](/pdf/why-reactive.pdf)
 
-#### Event Sourcing with Akka Persistence - ScalaByTheBay
+### 2015 Scala By The Bay
 
-- 2015 ScalaByTheBay
-- video: [ES with Akka Persistence](https://www.youtube.com/watch?v=uA2AsZW0I7A)
-- slides: [ES with Akka Persistence](/pdf/dist_es_with_akka_persistence_sbtb.pdf)
+#### Event Sourcing with Akka Persistence
+
+[slides](/pdf/dist_es_with_akka_persistence_sbtb.pdf) | 
+[video](https://www.youtube.com/watch?v=uA2AsZW0I7A)
 
 #### Reactive Programming Course
 
