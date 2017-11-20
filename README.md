@@ -12,6 +12,20 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 ## Presentations
 
+### 2017 Reactive Summit
+
+[video](https://www.youtube.com/watch?v=FbyzcJtKwE0)
+
+### 2017 JavaOne
+
+#### Managing Consistency, State and Identity in Distributed Microservices
+
+[slides](pdf/JavaOne_2017.pdf) | [downloads](https://events.rainfocus.com/catalog/oracle/oow17/catalogjavaone17?search=Duncan&showEnrolled=false)
+
+### 2017 Q&A with Lightbend’s Duncan DeVore on Reactive Microservices and JavaOne
+
+[video](https://www.youtube.com/watch?v=jR4o1zvBLDU)
+
 ### 2017 Scala Up North Keynote
 
 #### Managing Consistency, State and Identity in Distributed Microservices
