@@ -12,6 +12,14 @@ My blog, book and presentations around building [Reactive Architectures](http://
 
 ## Presentations
 
+### 2018 SACON New York by O'Reilly Media, Inc.
+
+[video](https://www.oreilly.com/library/view/oreilly-software-architecture/9781492028116/video318608.html)
+
+### 2017 Designing Fast Data Applications - Resilient, Scalable Architectures And Deployment Strategies
+
+[video](https://www.youtube.com/watch?v=Wx_9guvQKYU&index=3&list=PLuAEyXjRhil88Ge8FgZ0PULhMIdY-04vl)
+
 ### 2017 Reactive Summit
 
 [video](https://www.youtube.com/watch?v=FbyzcJtKwE0)
